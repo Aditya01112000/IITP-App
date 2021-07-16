@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">IIT Patna</string>
+    <string name="bold" translatable="false">@fonts/latobold</string>
+    <string name="light" translatable="false">@fonts/latolight</string>
+    <string name="regular" translatable="false">@fonts/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="date">Date:</string>
+</resources>
